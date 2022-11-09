@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-live-covid-data/static/css/main.85768c17.css",
+    "main.js": "/React-live-covid-data/static/js/main.90b28f21.js",
+    "index.html": "/React-live-covid-data/index.html",
+    "main.85768c17.css.map": "/React-live-covid-data/static/css/main.85768c17.css.map",
+    "main.90b28f21.js.map": "/React-live-covid-data/static/js/main.90b28f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.90b28f21.js"
+  ]
+}
