@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+body{
+  background: #2b4459;
+/* background: -webkit-linear-gradient(to left, #4B79A1 , #283E51);
+background: linear-gradient(to left, #4B79A1 , #283E51);         */
+}
+
+table, th, td {
+  text-align: center;
+  border-collapse: collapse;
+  color: white;
+  border: 2px solid wheat;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  /* font-family: 'Quintessential', cursive; */
+}
+
+h2{
+  text-align: center;
+  color: white;
+  letter-spacing: 3px;
+  font-family: 'Tangerine', cursive;
+}
+.form{
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+.title{
+  color: wheat;
+  text-align: center;
+  font-family: 'Quintessential', cursive;
+}
